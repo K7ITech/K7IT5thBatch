@@ -18,6 +18,7 @@ public class AnimalType{
 			  System.out.println(a1.height);
 			  System.out.println(a1.weight);
 			  System.out.println(a1.color);
+			  System.out.println();
 			  System.out.println(AnimalRunRate);
 			  
 			  Person a2 = new Person();
