@@ -15,7 +15,7 @@ class Person {
 	@Override
 	public String toString() {
 		return "Person [age=" + age + ", name=" + name + ", height=" + height + ", weight=" + weight + "]";
-	}
+	}//demo
 	/*public int getAge() {
 		return age;
 	}
