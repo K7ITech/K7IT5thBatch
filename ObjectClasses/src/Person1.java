@@ -12,6 +12,7 @@ public class Person1 {
 		this.weight=weight;
 		
 	}
+	//Testing
 	@Override
 	public String toString() {
 		return "Person1 [age=" + age + ", name=" + name + ", "
