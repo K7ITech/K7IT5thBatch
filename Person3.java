@@ -7,6 +7,7 @@ double runRate=(height*weight)/age;
 return runRate;
 }
 }
+//Test
 class Person3Manager{
 public static void main(String args[]){
 person3 lucky=new person3();
