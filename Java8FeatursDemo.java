@@ -46,4 +46,4 @@ public class Java8FeatursDemo {
 	}
 
 }
->>>>>>> ef3272fb29e4fc2c229dc0acac1b0217f436a7a2
+
