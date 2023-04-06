@@ -22,8 +22,8 @@ public class FunctionalInterface {
 	}
 
 }
-=======
 
+//Demo
 public class FunctionalInterface {
 	public static boolean isEvenNumber(int n) {
 		return n%2==0;
@@ -46,4 +46,4 @@ public class FunctionalInterface {
 	}
 
 }
->>>>>>> 6b11872dfe23952a1157630e4e2ea8180d2533cd
+
