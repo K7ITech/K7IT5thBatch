@@ -11,7 +11,7 @@ public class NthMaximumValue {
 	public static void main(String[] args) 
 	{
 		
-		
+		//Test
 		int a[]= {10,50,40,30,70};
 		int max=a[0];
 		Arrays.sort(a);
