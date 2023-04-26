@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Student Details
+        </title>
+    </head>
+    <body>
+        <h1>K7IT Student Details</h1>
+        <style>
+            table, th, td, td1 {
+                border:1px solid black;
+            }
+            
+        </style>
+        <table name="Student Details">
+
+            <tr>
+                <th>Studebnt Id</th>
+                <th>Studebnt name</th>
+                <th>Course</th>
+                <th>Address </th>
+                <th>EmailId</th>
+                <th>phone</th>
+                <th>Action</th>
+                
+            </tr>
+            <tr>
+                <td>001</td>
+                <td>Deepya</td>
+                <td>Full Stack Developer</td>
+                <td>Chittoor</td>
+                <td>deepya.k@gmail.com</td>
+                <td>69853145618</td>
+                <td>
+                    <td1><button class> <img src="E:\HTMLPractice\View.png"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Delete.jpg"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Edit.png"width="15" length="15"></button></td1>    
+                </td>
+               
+            </tr>
+            <tr>
+                <td>002</td>
+                <td>Aruna</td>
+                <td>Full Stack Developer</td>
+                <td>VJ</td>
+                <td>aruna@gmail.com</td>
+                <td>69858654568</td>
+                <td>
+                    <td1><button class> <img src="E:\HTMLPractice\View.png"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Delete.jpg"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Edit.png"width="15" length="15"></button></td1>    
+                </td>
+               
+            </tr>
+            <tr>
+                <td>003</td>
+                <td>Latha</td>
+                <td>Full Stack Developer</td>
+                <td>Kadapa</td>
+                <td>latha@gmail.com</td>
+                <td>69533145568</td>
+                <td>
+                    <td1><button class> <img src="E:\HTMLPractice\View.png"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Delete.jpg"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Edit.png"width="15" length="15"></button></td1>    
+                </td>
+                
+                
+            </tr>
+            <tr>
+                <td>004</td>
+                <td>Praneetha</td>
+                <td>Full Stack Developer</td>
+                <td>Nellore</td>
+                <td>praneetha@gmail.com</td>
+                <td>69856524568</td>
+                <td>
+                    <td1><button class> <img src="E:\HTMLPractice\View.png"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Delete.jpg"width="15" length="15"></button></td1>
+                    <td1><button class> <img src="E:\HTMLPractice\Edit.png"width="15" length="15"></button></td1>    
+                </td>
+                
+            </tr>
+        </table>
+    </body>
+</html>
